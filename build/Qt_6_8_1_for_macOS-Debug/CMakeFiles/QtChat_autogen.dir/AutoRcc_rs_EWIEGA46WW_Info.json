@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/Users/hugh/Documents/Code/QtChat/build/Qt_6_8_1_for_macOS-Debug/QtChat_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/hugh/Documents/Code/QtChat/build/Qt_6_8_1_for_macOS-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/hugh/Documents/Code/QtChat/build/Qt_6_8_1_for_macOS-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/hugh/Documents/Code/QtChat",
+	"CMAKE_SOURCE_DIR" : "/Users/hugh/Documents/Code/QtChat",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/Users/hugh/Documents/Code/QtChat/build/Qt_6_8_1_for_macOS-Debug/QtChat_autogen/include",
+	"INPUTS" : [ "/Users/hugh/Documents/Code/QtChat/rsc/WechatIMG1 17.05.03.jpg" ],
+	"LOCK_FILE" : "/Users/hugh/Documents/Code/QtChat/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/QtChat_autogen.dir/AutoRcc_rs_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "rs" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_rs.cpp",
+	"RCC_EXECUTABLE" : "/Users/hugh/Qt/6.8.1/macos/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/hugh/Documents/Code/QtChat/build/Qt_6_8_1_for_macOS-Debug/CMakeFiles/QtChat_autogen.dir/AutoRcc_rs_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/hugh/Documents/Code/QtChat/rs.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
